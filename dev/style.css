@@ -1,1 +1,9 @@
+/* component-library-styles */
 @import url("https://krishui.netlify.app/main/dev/styles.css");
+/* pages-styles */
+@import url(./pages/home/home.css);
+@import url(./pages/cart/cart.css);
+@import url(./pages/wishlist/wishlist.css);
+@import url(./pages/product-listing/product-listing.css);
+
+
