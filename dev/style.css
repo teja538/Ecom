@@ -6,6 +6,7 @@
 @import url(./pages/wishlist/wishlist.css);
 @import url(./pages/product-listing/product-listing.css);
 
+<<<<<<< HEAD
 .index-card
 {
     
@@ -14,4 +15,6 @@
     align-items: center;
     padding: 1rem;
 }
+=======
+>>>>>>> 6cdf5e1c051c0fc2156b2d1878d755bc730d22bd
 
