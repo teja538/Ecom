@@ -22,11 +22,7 @@
 {
     grid-area: price-details;
 }
-<<<<<<< HEAD
 .cart-card
-=======
-.card-horizontal
->>>>>>> 6cdf5e1c051c0fc2156b2d1878d755bc730d22bd
 {
     max-width:70%;
     margin: 2rem auto;
@@ -64,8 +60,4 @@
 .margin-top
 {
     margin-top: 1.2rem;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 6cdf5e1c051c0fc2156b2d1878d755bc730d22bd
