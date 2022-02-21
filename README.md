@@ -7,4 +7,7 @@ It has following screens
 - Login page
 - Signup page  
 
-In each screen you can navigate through navbar
+In each screen you can navigate through navbar  
+
+## Deployed link  
+https://tejkart.netlify.app/  
